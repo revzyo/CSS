@@ -1,0 +1,47 @@
+p{
+    color: red;
+    width: 500px;
+    border: 1px solid black;
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+}
+
+h1{
+    font-family: "Madimi One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: red;
+    text-shadow: 3px 3px 1px white;
+  }
+
+p,li{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 1px;
+}
+
+html {
+    background-color: #735DA5;
+  }
+
+body{
+    width: 600px;
+    margin: 0 auto;
+    background-color: #D3C5E5;
+    padding: 0 20px 20px 20px;
+    border: 5px solid #FFFFFF;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}
+  
