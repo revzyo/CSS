@@ -58,4 +58,15 @@
     font-size: 12px;
 }
 
+.github{
+    background-color: rgb(46, 164, 79);
+    border: none;
+    border-radius: 3px;
+    color: white;
+    font-weight: bold;
+    height: 25px;
+    width: 70px;
+    margin-top: 10px;
+}
+
 
