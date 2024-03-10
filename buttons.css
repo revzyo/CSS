@@ -35,6 +35,7 @@
     font-size: 10px;
     font-style: oblique;
     font-weight: bold ;
+    margin-top: 10px;
 
 }
 
@@ -67,6 +68,56 @@
     height: 25px;
     width: 70px;
     margin-top: 10px;
+}
+
+.bootstrap{
+    background-color: rgb(121, 82, 179);
+    border: none;
+    border-radius: 3px;
+    font-weight: bold;
+    color: white;
+    height: 25px;
+    width: 100px;
+    margin-top: 10px;
+
+}
+
+.bootstrap-download{
+    color: rgb(108, 117, 125);
+    border-color: rgb(108, 117, 125);
+    border-style: solid;
+    background-color: white;
+    border-radius: 2px;
+    height: 25px;
+    width: 100px;
+    border-width: 1px;
+    font-weight: bold;
+    margin-left: 2px;
+}
+
+.linkedin{
+    background-color: rgb(10, 102, 194);
+    border: none;
+    color: white;
+    font-weight: bold;
+    height: 30px;
+    width: 170px;
+    border-radius: 100px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.linkedin-save{
+    background-color: white;
+    border-color: rgb(10, 102, 194);
+    border-style: solid;
+    border-radius: 100px;
+    border-width: 1px;
+    height: 30px;
+    width: 60px;
+    color: rgb(10, 102, 194);
+    font-weight: bold;
+    margin-left: 5px;
 }
 
 
